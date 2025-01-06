@@ -17,9 +17,9 @@ Usage: execute executable with arguments: {path to xferlog file} {filename of me
 #include <cstring>
 #include <limits.h>
 
-#define CSV_FILE_PATH "/home/NeoHPHTLogger/Data/"
-#define LOG_PATH "/home/NeoHPHTLogger/Logs/"
-#define GD_BACKUP_FILE_PATH "/home/NeoHPHTLogger/Data/GD/"
+#define CSV_FILE_PATH "DATA DIRECTORY"
+#define LOG_PATH "LOG DIRECTORY"
+#define GD_BACKUP_FILE_PATH "GOOGLE DRIVE DIRECTORY"
 #define LOG_BACKUP_MIN 5 
 #define BACKUP_INTERVAL 240
 
